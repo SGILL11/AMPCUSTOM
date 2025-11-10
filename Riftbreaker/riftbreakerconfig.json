@@ -1,0 +1,28 @@
+{
+  "Settings": [
+    {
+      "Key": "ServerName",
+      "DisplayName": "Server Name",
+      "DefaultValue": "AAW Riftbreaker Server",
+      "Argument": "ServerName"
+    },
+    {
+      "Key": "MaxPlayers",
+      "DisplayName": "Max Players",
+      "DefaultValue": "4",
+      "Argument": "MaxPlayers"
+    },
+    {
+      "Key": "Password",
+      "DisplayName": "Server Password",
+      "DefaultValue": "",
+      "Argument": "Password"
+    },
+    {
+      "Key": "Port",
+      "DisplayName": "Server Port",
+      "DefaultValue": "7777",
+      "Argument": "Port"
+    }
+  ]
+}
